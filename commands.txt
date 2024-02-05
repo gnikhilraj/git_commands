@@ -1,0 +1,9 @@
+git init - it sets up all the necessary files and data structures for Git to start tracking changes in your project
+
+git add -  used to add changes in the working directory to the staging area
+
+git commit - This command creates a new commit with the changes that were previously added to the staging area using git add.
+
+git remote add origin - used to associate a remote repository with your local Git repository.
+
+git push - used to upload local repository content to a remote repository.
