@@ -4,6 +4,8 @@ git add -  used to add changes in the working directory to the staging area
 
 git commit - This command creates a new commit with the changes that were previously added to the staging area using git add.
 
+git branch - lists out the branches and when an argument is passed it creates a new branch.
+
 git remote add origin - used to associate a remote repository with your local Git repository.
 
 git push - used to upload local repository content to a remote repository.
